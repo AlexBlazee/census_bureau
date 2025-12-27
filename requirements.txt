@@ -1,0 +1,8 @@
+numpy=2.4.0
+pandas=2.3.3
+scikit-learn=1.8.0
+dpython=0.7.12
+catboost=1.2.8
+xgboost=3.1.2
+lightgbm=4.6.0
+gower=0.1.2
